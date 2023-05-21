@@ -15,6 +15,7 @@ function App() {
           <img src="/vite.svg" className="logo" alt="Vite logo" />
         </a>
       </div>
+      <div>Ovo je od Emir g</div>
       <h1>React + Vite + CodeSandbox</h1>
       <h2>On CodeSandbox!</h2>
       <div className="card">
